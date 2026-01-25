@@ -20,7 +20,7 @@
 <p><b>Untracked:</b>New files that git doesn't yet track</p>
 <p><b>Modified:</b>changes in file</p>
 <p><b>UnModified:</b>Unchanged file</p>
-<p><b>Staged:</b>File is ready to be committed.<br><img src="Images/staged.png"></p>
+<p><b>Staged:</b>File is ready to be committed.<br><img src="Images/staged.png"><figcaption>Figure 1: Files staged and ready to commit</figcaption></p>
 
 <hr>
 
