@@ -48,7 +48,7 @@ improve this github read me file:# Apna-College-Demo
 <h6>Syntax:</h6>
 <p>git push origin main</p>
 <br>
-<p>origin and main ko explain kerwana hai gpt sy</p><br>
+<p>In the command git push origin main, origin refers to the remote GitHub repository where your project is stored, and main is the branch you are working on. This command sends the changes from your local main branch to the remote repository on GitHub so that your latest commits become available online.</p><br>
 
 
 
