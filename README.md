@@ -1,2 +1,6 @@
 # Apna-College-Demo
-Learning Github
+<h1>Learning Github</h1>
+<h2>Author-Haroon Ijaz</h2>
+
+
+
