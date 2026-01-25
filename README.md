@@ -1,4 +1,4 @@
-# Apna-College-Demo
+improve this github read me file:# Apna-College-Demo
 <h1>Learning Github</h1>
 <h4>Author-Haroon Ijaz</h4>
 
@@ -32,10 +32,23 @@
 <p>git add . </p>
 
 <hr>
+
 <h2> Commit Command </h2>
 <p>Keeps record of changes. <p>
 <h6>Syntax:</h6>
 <p>git commit -m "Any Message"</p>
+<h6>Example:</h6>
+<p>git commit -m "New folder 'Images' added and 'README.md' is modified"</p><br>
+<p>Note: This only commits  on local machine.</p><br>
+
+<hr>
+
+<h2> Push Command </h2>
+<p>Uploades Local Repo cotent to the Remote Repo. <p>
+<h6>Syntax:</h6>
+<p>git push origin main</p>
+<br>
+<p>origin and main ko explain kerwana hai gpt sy</p><br>
 
 
 
